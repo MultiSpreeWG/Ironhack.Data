@@ -14,6 +14,7 @@ Using pen and paper (or computer software if you are skillful at creating digita
 
 1. **Customers** - e.g. the customer ID, name, phone number, email, address, city, state/province, country, and zip/postal code of the customers.
 
+
 1. **Salespersons** - e.g. staff ID, name, and the store at your company.
 
 1. **Invoices** - e.g. the invoice number, date, car, customer, and salesperson related to each car sale.
